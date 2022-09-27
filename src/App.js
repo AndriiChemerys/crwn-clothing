@@ -1,3 +1,5 @@
+import "./categories.styles.scss";
+
 const App = () => {
   const categories = [
     {
@@ -5,19 +7,19 @@ const App = () => {
       title: "Hats",
     },
     {
-      id: "1",
+      id: "2",
       title: "Jackets",
     },
     {
-      id: "1",
+      id: "3",
       title: "Sneakers",
     },
     {
-      id: "1",
+      id: "4",
       title: "Womens",
     },
     {
-      id: "1",
+      id: "5",
       title: "Mens",
     },
   ];
